@@ -4,4 +4,4 @@ NPM     : 2106652700
 
 Kelas   : C
 
-Hobi    : Menonton
+Hobi    : Tidur
